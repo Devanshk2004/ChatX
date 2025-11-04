@@ -1,4 +1,4 @@
-### Setup .env file
+### Setup .env file in backend
 
 ```js
 MONGODB_URI=...
